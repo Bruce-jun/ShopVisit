@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ItemView">
+        <attr name="leftText" format="string"/>
+        <attr name="leftIcon" format="integer"/>
+        <attr name="rightIcon" format="integer"/>
+        <attr name="textSize" format="float"/>
+        <attr name="textColor" format="color"/>
+        <attr name="isShowUnderLine" format="boolean"/>
+    </declare-styleable>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_bar_add_bottom">11dp</dimen>
+    <dimen name="title_bar_add_padding">4dp</dimen>
+    <dimen name="title_bar_add_right">27dp</dimen>
+    <dimen name="title_bar_save_bootom">12dp</dimen>
+    <dimen name="title_bar_save_right">25dp</dimen>
+    <dimen name="title_bar_histroy_right">16dp</dimen>
+    <dimen name="bottom_img_padding">6dp</dimen>
+    <dimen name="bottom_text_size">11sp</dimen>
+</resources>
